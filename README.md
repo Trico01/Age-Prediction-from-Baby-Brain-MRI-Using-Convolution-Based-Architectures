@@ -19,4 +19,4 @@ The test performance of all four models under different input image and input mo
 | CBAM-CNN   | 1.396              | 1.404              | 2.132          | 2.205          |
 | ResNet     | 1.169              | 1.107              | 1.912          | 1.895          |
 
-<img src="Results/GradCAM.png" alt="image" width="80%" height="80%">
+<img src="Results/GradCAM.png" alt="image" width="100%" height="=100%">
