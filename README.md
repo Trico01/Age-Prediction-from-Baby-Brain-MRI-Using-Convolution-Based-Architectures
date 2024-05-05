@@ -6,7 +6,7 @@ Final Project for EN.520.638 Deep Learning, Spring 2024.
 
 The UNC / UMN Baby Connectome Project, which includes 343 healthy term-born subjects. Images from subjects aged 0-2 years are selected, which contain 1355 T1 and T2 MRI images.
 
-<img src="Results/dist.png" alt="image" width="40%" height="40%">
+<img src="Results/dist.png" alt="image" width="60%" height="60%">
 
 ## Result
 
@@ -19,4 +19,4 @@ The test performance of all four models under different input image and input mo
 | CBAM-CNN   | 1.396              | 1.404              | 2.132          | 2.205          |
 | ResNet     | 1.169              | 1.107              | 1.912          | 1.895          |
 
-<img src="Results/GradCAM.png" alt="image" width="70%" height="70%">
+<img src="Results/GradCAM.png" alt="image" width="80%" height="80%">
