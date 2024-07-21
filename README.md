@@ -1,7 +1,5 @@
 ## Age Prediction from Baby Brain MRI Using Convolution-Based Architectures
 
-Final Project for EN.520.638 Deep Learning, Spring 2024.
-
 ## Dataset
 
 The UNC / UMN Baby Connectome Project, which includes 343 healthy term-born subjects. Images from subjects aged 0-2 years are selected, which contain 1355 T1 and T2 MRI images.
